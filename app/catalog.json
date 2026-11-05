@@ -1,0 +1,8 @@
+[
+  {"sku": "KB-001", "name": "Mechanical keyboard", "category": "peripherals", "price": 89.9, "stock": 42},
+  {"sku": "MS-002", "name": "Wireless mouse", "category": "peripherals", "price": 29.5, "stock": 130},
+  {"sku": "MN-003", "name": "27-inch monitor", "category": "displays", "price": 249.0, "stock": 18},
+  {"sku": "MN-004", "name": "Portable monitor", "category": "displays", "price": 179.0, "stock": 7},
+  {"sku": "HB-005", "name": "USB-C hub", "category": "accessories", "price": 39.0, "stock": 65},
+  {"sku": "CB-006", "name": "HDMI cable 2m", "category": "accessories", "price": 9.9, "stock": 240}
+]
